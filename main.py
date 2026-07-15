@@ -1,1 +1,1 @@
-print("Hyderabad Institute of Technology and Management.")
+print("Hyderabad Institute of Technology and Management")
