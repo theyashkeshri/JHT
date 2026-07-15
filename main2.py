@@ -1,3 +1,4 @@
-x = 1
+z = 1
 
-print(x)
+print("This is an Example")
+print(z)
